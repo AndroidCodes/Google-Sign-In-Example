@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "486059800506",
+    "firebase_url": "https://ambient-catcher-162908.firebaseio.com",
+    "project_id": "ambient-catcher-162908",
+    "storage_bucket": "ambient-catcher-162908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486059800506:android:33868e284de0ec6b",
+        "android_client_info": {
+          "package_name": "com.example.androidcodes.googlesigninexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486059800506-d4c3087sddpn8uog7ag7beu7qh3bvjhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidcodes.googlesigninexample",
+            "certificate_hash": "2baec5c6316c63d0d8307332183fdb1953b60fae"
+          }
+        },
+        {
+          "client_id": "486059800506-c60mv25osgod8l6k627okt1compd5vb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHQNf717FnNZd2OvLe9h0V9aOXkH1KGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486059800506-c60mv25osgod8l6k627okt1compd5vb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
